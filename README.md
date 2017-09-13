@@ -1,2 +1,6 @@
 # hello-world
-new here :) i need to learn 
+new here :)
+still learnig 
+love linux
+love fedora
+love Poland
