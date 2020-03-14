@@ -32,7 +32,7 @@ def drone_shipping(weight):
   return 0 + (price_per_pound * weight)
 print(drone_shipping(1.5))
 
-#6 najtansza metoda
+#6 najtansza metoda - jeszcze raz sprawdzic (problemy z rozwiazaniem zadania)
 def cheapest_shipping(weight):
 
   ground = ground_shipping(weight)
